@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="firsttask@localhost" uuid="9bf5a410-97b8-47f8-b26b-c35d657f8f7c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/firsttask</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="+03:00" />
+      </driver-properties>
+      <time-zone>+03:00</time-zone>
+    </data-source>
+  </component>
+</project>
